@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shreyas Bhat</h1>
+<h1 align="center">Hi, I'm Shreyas</h1>
 <h3 align="center">I am a sophomore at BITS Goa</h3>
 
 - 🌱 I’m currently learning: **CV, NLP, Causal inference, Biology**
