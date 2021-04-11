@@ -2,7 +2,7 @@
 <h3 align="center">I am a sophomore at BITS Goa</h3>
 
 - 🌱 I’m currently learning: **CV, NLP, Causal inference, Biology**
-- 👯 I’m looking to collaborate with other researchers in Deep Learning and computational neuroscience
+- 👯 I’m looking to collaborate 
 - 📫 How to reach me: **shreyasbhat2001@gmail.com**
 - 😄 pronouns: **He/Him**
 - ⚡ Fun fact: **When i sleep i do a very long blink; the opposite when i am more alert**
