@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate 
 - 📫 How to reach me: **shreyasbhat2001@gmail.com**
 - 😄 pronouns: **He/Him**
-- ⚡ Fun fact: **When i sleep i do a very long blink; the opposite when i am more alert**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shreyasbhat23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shreyasbhat23" height="30" width="40" /></a>
