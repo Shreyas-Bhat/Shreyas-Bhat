@@ -17,4 +17,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas-bhat&show_icons=true&locale=en" alt="shreyas-bhat" /></p
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas-bhat&show_icons=true&locale=en&count_private=true" alt="shreyas-bhat" /></p
