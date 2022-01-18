@@ -1,5 +1,5 @@
-<h1 align="center">Hi!</h1>
-<h3 align="center">I am an undergraduate student at BITS Goa</h3>
+<h1 align="left">Hi!</h1>
+<h3 align="left">I am an undergraduate student at BITS Goa</h3>
 
 - 🌱 I’m currently learning: **CV, NLP, Computational Neuroscience**
 - 👯 I’m looking to collaborate 
