@@ -1,10 +1,10 @@
 <h1 align="left">Hi!</h1>
 <h3 align="left">I am an undergraduate student at BITS Goa</h3>
 
-- 🌱 I’m currently learning: **CV, NLP, Computational Neuroscience**
-- 👯 I’m looking to collaborate 
-- 📫 How to reach me: **shreyasbhat2001@gmail.com**
-- 😄 pronouns: **He/Him**
+- I’m currently learning: **Generative Modelling, Graph Representation Learning, Computational Neuroscience**
+- I’m looking to collaborate 
+- How to reach me: **shreyasbhat2001@gmail.com**
+- pronouns: **He/Him**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
