@@ -1,7 +1,7 @@
 <h1 align="left">Hi!</h1>
 <h3 align="left">I am an undergraduate student at BITS Goa</h3>
 
-- I’m currently learning: **Generative Modelling, Graph Representation Learning, Computational Neuroscience**
+- I’m currently learning: **Computational Biology, Generative Modelling, Graph Representation Learning**
 - I’m looking to collaborate 
 - How to reach me: **shreyasbhat2001@gmail.com**
 - pronouns: **He/Him**
