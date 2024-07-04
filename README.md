@@ -3,7 +3,6 @@
 
 - I’m currently working on: **DL for medical images, Generative Modelling for drug discovery**
 - I’m looking to collaborate; How to reach me: **shreyasbhat2001@gmail.com**
-- pronouns: **He/Him**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
