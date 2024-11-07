@@ -1,6 +1,8 @@
 <h1 align="left">Hi!</h1>
 <h3 align="left">I am PhD student at UNC Chapel Hill</h3>
-- I’m looking to collaborate; How to reach me: **shreyasbhat2001@gmail.com**
+- Find out more about me: <a href="https://sites.google.com/goa.bits-pilani.ac.in/shreyasbhat/home" target="blank"><Homepage></a>
+- I’m looking to collaborate; 
+- How to reach me: **shreyasbhat2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
