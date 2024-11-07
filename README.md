@@ -1,7 +1,5 @@
 <h1 align="left">Hi!</h1>
-<h3 align="left">I am an undergraduate student at BITS Goa</h3>
-
-- I’m currently working on: **DL for medical images, Generative Modelling for drug discovery**
+<h3 align="left">I am PhD student at UNC Chapel Hill</h3>
 - I’m looking to collaborate; How to reach me: **shreyasbhat2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
